@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hewwo there 👋  
+*is it me Zhyren and welcome to my github profile.
+{
+> Living in 🇨🇦 Canada, Ontario.
 
-<!--
-**ZhyrenWasTaken/ZhyrenWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm bilingual, I currently speak 🇪🇸 Spanish & English 🇺🇸
 
-Here are some ideas to get you started:
+> Currently learning Java for Minecraft Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I know Python 🐍 , JavaScript 🗒️, HTML 🕸️ , CSS and a bit of Java.
+
+//end
+}
