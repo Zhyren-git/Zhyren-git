@@ -8,6 +8,4 @@
 > Currently learning Java for Minecraft Development.
 
 > I know Python 🐍 , JavaScript 🗒️, HTML 🕸️ , CSS and a bit of Java.
-
-//end
 }
