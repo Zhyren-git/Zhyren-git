@@ -11,3 +11,5 @@
 > I know Python 🐍 , JavaScript 🗒️, HTML 🕸️ , CSS and a bit of Java.
 
 }
+
+I can make Minecraft Plugins using Java ofc and Minecraft Bots with JS.
