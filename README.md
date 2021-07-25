@@ -12,4 +12,14 @@
 
 }
 
-I can make Minecraft Plugins using Java as well as Minecraft Bots using JavaScript.
+I can make Minecraft Plugins using Java and Minecraft/Discord Bots using JavaScript/Java.
+
+Don't be shy to talk to me on Discord I accept anyone!
+
+I'm also going to be publishing some of my projects.
+
+Social Media's 🍓
+
+Discord : Zhyren#0555
+Twitter: @CallMeZhyren
+Youtube: Zhyren
