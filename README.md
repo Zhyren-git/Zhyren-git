@@ -12,4 +12,4 @@
 
 }
 
-I can make Minecraft Plugins using Java ofc and Minecraft Bots with JS.
+I can make Minecraft Plugins using Java as well as Minecraft Bots using JavaScript.
