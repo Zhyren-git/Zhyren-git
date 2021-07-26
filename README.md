@@ -4,7 +4,7 @@
 {
 > Living in 🇨🇦 Canada, Ontario.
 
-> I'm bilingual, I currently able to speak 🇪🇸 Spanish & English 🇺🇸
+> I'm bilingual, I'm currently able to speak 🇪🇸 Spanish & English 🇺🇸
 
 > Currently learning Java for Minecraft Development.
 
