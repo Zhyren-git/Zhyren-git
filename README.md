@@ -20,6 +20,6 @@ I'm also going to be publishing some of my projects.
 
 Social Media's 🍓
 
-Discord : Zhyren#0555\n
-Twitter: @CallMeZhyren\n
+Discord : Zhyren#0555 
+Twitter: @CallMeZhyren 
 Youtube: Zhyren
