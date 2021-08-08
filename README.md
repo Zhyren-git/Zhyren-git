@@ -22,4 +22,4 @@ Social Media's 🍓
 
 Discord : Zhyren#0555 
 Twitter: @CallMeZhyren 
-Youtube: Zhyren
+Youtube: https://m.youtube.com/channel/UCEwb5YBY9rpEYs9tHst2hmw
