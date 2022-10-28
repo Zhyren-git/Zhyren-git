@@ -12,9 +12,9 @@ Nationality: Dominican 🇩🇴
 
 > Bilingual: Spanish 🇪🇸 & English 🇺🇸
 
-> Knows 4 programming languages and Web.
+> Knows 3 programming languages and Web.
 
-> Java, Python 🐍 , JavaScript 🗒️, HTML with CSS.
+> NodeJS, Java, Python 🐍 , JavaScript (Web) 🗒️, HTML with CSS.
 
 }
 
