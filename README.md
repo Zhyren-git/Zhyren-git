@@ -3,10 +3,6 @@
 
 4 years of coding,
 
-18 yrs; (he/him),
-
-Nationality: Dominican 🇩🇴
-
 {
 > Lives in 🇨🇦 Canada, Ontario.
 
@@ -19,8 +15,6 @@ Nationality: Dominican 🇩🇴
 }
 
 Experiences:
-Discord Development
-Minecraft Modding/Development
 
 Don't be shy to talk to me on Discord I accept anyone!
 
