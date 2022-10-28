@@ -10,7 +10,7 @@
 
 > Knows 3 programming languages and Web.
 
-> NodeJS 📖, Java 👣, Python 🐍, JavaScript (Web) 🗒️, HTML ☯ with CSS ⛄️.
+> NodeJS 📖, Java 👣, Python 🐍, JavaScript (Web) 🗒️, HTML with CSS ⛄.
 
 }
 
