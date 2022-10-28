@@ -1,8 +1,10 @@
 ### Hewwo there 👋  
 *it's-a Me, Zhyren! And welcome to my github profile.
 
-4 years of coding,&nbsp
+4 years of coding,
+
 18 yrs; (he/him),
+
 Nationality: Dominican 🇩🇴
 
 {
