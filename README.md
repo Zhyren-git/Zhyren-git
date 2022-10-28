@@ -1,22 +1,28 @@
 ### Hewwo there 👋  
-*is it me Zhyren and welcome to my github profile.
+*it's-a Me, Zhyren! And welcome to my github profile.
+
+4 years of coding,
+18 yrs; (he/him),
+Nationality: Dominican 🇩🇴
 
 {
-> Living in 🇨🇦 Canada, Ontario.
+> Lives in 🇨🇦 Canada, Ontario.
 
-> I'm bilingual, I'm currently able to speak 🇪🇸 Spanish & English 🇺🇸
+> Bilingual: Spanish 🇪🇸 & English 🇺🇸
 
-> Currently learning Java for Minecraft Development.
+> Knows 4 programming languages and Web.
 
-> I know Python 🐍 , JavaScript 🗒️, HTML 🕸️ , CSS and a bit of Java.
+> Java, Python 🐍 , JavaScript 🗒️, HTML with CSS.
 
 }
 
-I can make Minecraft Plugins using Java and Minecraft/Discord Bots using JavaScript/Java.
+Experiences:
+Discord Development
+Minecraft Modding/Development
 
 Don't be shy to talk to me on Discord I accept anyone!
 
-I'm also going to be publishing some of my projects.
+Planning on publishing some of my projects.
 
 Social Media's 🍓
 
