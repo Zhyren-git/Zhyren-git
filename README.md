@@ -1,7 +1,7 @@
 ### Hewwo there 👋  
 *it's-a Me, Zhyren! And welcome to my github profile.
 
-4 years of coding,
+4 years of coding,<br/>18 yrs; (he/him),<br/>Nationality: Dominican 🇩🇴
 
 {
 > Lives in 🇨🇦 Canada, Ontario.
@@ -14,7 +14,7 @@
 
 }
 
-Experiences:
+Experiences:<br/>Discord Development<br/>Minecraft Modding/Development
 
 Don't be shy to talk to me on Discord I accept anyone!
 
