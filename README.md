@@ -14,7 +14,7 @@
 
 }
 
-Experiences: MySQL<br/>Discord Development<br/>Minecraft Modding/Development
+Experiences:<br/>MySQL<br/>Discord Development<br/>Minecraft Modding/Development
 
 Don't be shy to talk to me on Discord I accept anyone!
 
