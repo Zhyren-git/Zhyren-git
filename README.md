@@ -22,4 +22,4 @@ Planning on publishing some of my projects.
 
 Social Media's 🍓
 
-Discord: Zhyren#2425<br/>Twitter: [@CallMeZhyren](https://twitter.com/CallMeZhyren)<br/>Youtube: [Zhyren](https://m.youtube.com/channel/UCEwb5YBY9rpEYs9tHst2hmw)
+Discord: zhyren<br/>Twitter: [@CallMeZhyren](https://twitter.com/CallMeZhyren)<br/>Youtube: [Zhyren](https://m.youtube.com/channel/UCEwb5YBY9rpEYs9tHst2hmw)
