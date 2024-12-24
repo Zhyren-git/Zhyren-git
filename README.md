@@ -1,7 +1,7 @@
 ### Hewwo there 👋  
 *it's-a Me, Zhyren! And welcome to my github profile.
 
-5 years of coding,<br/>20 yrs; (he/him),<br/>Nationality: Dominican 🇩🇴
+6 years of coding,<br/>21 yrs; (he/him),<br/>Nationality: Dominican 🇩🇴
 
 {
 > Lives in 🇨🇦 Canada, Ontario.
